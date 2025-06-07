@@ -1,2 +1,2 @@
 ## Eaglercraft for mobile
-Like original EagleCraft (https://eaglecraft.com/) but supporting mobile devices
+Like original EaglerCraft (https://eaglercraft.com/) but supporting mobile devices
